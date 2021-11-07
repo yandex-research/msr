@@ -38,7 +38,7 @@ python3 resample_raw_dataset.py\
 
 ### Data
 
-You can download [gzip archive]() that contains checkpoints for each direction, evaluation scripts and preprocessed datasets that we used.
+You can download [gzip archive](https://www.dropbox.com/s/3cpk31n5fsbht2e/msr_data.tar.gz?dl=0) that contains checkpoints for each direction, evaluation scripts and preprocessed datasets that we used.
 
 
 ### Data preparation, training and evaluation
