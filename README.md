@@ -8,7 +8,7 @@
 # Conda environment
 conda env create -n msr_env python=3.7 -f environment.yaml
 
-# fairseq
+# We use fairseq 10.0
 cd fairseq
 pip install --editable ./
 ```
